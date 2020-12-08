@@ -1,1 +1,1 @@
-# IPL-First-Innings-Score-Prediction
+Cricket-Score-Prediction
